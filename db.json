@@ -1,0 +1,28 @@
+{
+  "polls": [
+    {
+      "id": "1",
+      "name": "Banowanie Telefonów",
+      "question": "Czy powinniśmy zbanować telefony w szkole?",
+      "anwsers": [5, 10]
+    },
+    {
+      "id": "fe8a",
+      "name": "User1",
+      "question": "czy chcemy cos zroibc?",
+      "anwsers": [0, 0]  
+    },
+    {
+      "id": "05f0",
+      "name": "dgffgf",
+      "question": "fgfg",
+      "anwsers": [0, 0]  
+    },
+    {
+      "id": "42f2",
+      "name": "mk",
+      "question": "jkkj",
+      "anwsers": [0, 0] 
+    }
+  ]
+}
